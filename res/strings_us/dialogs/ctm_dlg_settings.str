@@ -1,0 +1,20 @@
+// C4D-DialogResource
+
+DIALOGSTRINGS ctm_dlg_settings
+{
+  IDS_BUTTON_CANCEL    "Cancel";
+  IDS_BUTTON_DOIT      "Do It!";
+  IDS_CHECK_CHILDREN   "Process children";
+  IDS_CHECK_CLEARPREV  "Clear previous tags";
+  IDS_COLOR            "Color";
+  IDS_DIALOG_SETTINGS  "Color to Material";
+  IDS_GROUP_BUTTONS    "Buttons";
+  IDS_GROUP_SETTINGS   "Settings";
+  IDS_GROUP_SETTINGS2  "Settings 2";
+  IDS_GROUP_WRAPPER    "Wrapper";
+  IDS_LAYER            "Layer";
+  IDS_LUMINANCE        "Luminance";
+  IDS_OBJECT           "Object";
+  IDS_STATIC_CHANNEL   "Material Channel";
+  IDS_STATIC_SOURCE    "Color Source";
+}
